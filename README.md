@@ -13,6 +13,7 @@ git clone https://github.com/halocxent/terminal-browser.git
 ```
 cd terminal-browser
 ```
+# Running
 ```
 py web.py
 ```
