@@ -1,7 +1,7 @@
 # terminal-browser
 
 A simple terminal-based browser written in Python.  
-This project maded around 7 mins so do not expect good stuff.
+This project made in around 7 mins so do not expect good stuff.
 
 ## Requirements
 - Python 3.x
