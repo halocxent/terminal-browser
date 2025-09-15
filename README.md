@@ -13,6 +13,10 @@ git clone https://github.com/halocxent/terminal-browser.git
 ```
 cd terminal-browser
 ```
-then
 ```
-py 
+py web.py
+```
+# Or
+```
+python3 web.py
+```
