@@ -31,7 +31,7 @@ hist,idx,inc=[],-1,"--ign"in sys.argv
 def navhelp():print("Commands: [n]=open | b=back | f=forward | u=url | r=reload | t=clear | i=incognito | q=quit\n")
 def display(u,t,l):
     os.system("cls"if os.name=="nt"else"clear")
-    print(f"=== {u} {'(Incognito)'if inc else ''} ===\n{t[:2000]}")
+    print(f"=== {u} {'(Incognito)'if inc else ''} ===\n{t[:100000000]}")
     if l:print("\n--- Links ---",* [f"[{i}] {x}"for i,x in enumerate(l,1)],sep="\n")
     navhelp()
 
