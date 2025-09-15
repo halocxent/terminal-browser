@@ -1,23 +1,22 @@
 # terminal-browser
-a simple terminal based browser writen in python
 
-Simple how to use
+A simple terminal-based browser written in Python.  
+This project maded around 7 mins so do not expect good stuff.
 
-requirements: python 3.x
+## Requirements
+- Python 3.x
 
-# Installing
+## Installation
 ```
 git clone https://github.com/halocxent/terminal-browser.git
-```
-# Opening
-```
 cd terminal-browser
 ```
-# Running
+
+## Running
 ```
 py web.py
 ```
-# Or
+or
 ```
 python3 web.py
 ```
