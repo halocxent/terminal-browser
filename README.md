@@ -1,5 +1,5 @@
 # terminal-browser
-a simple terminal based browser writed in python
+a simple terminal based browser writen in python
 
 Simple how to use
 
